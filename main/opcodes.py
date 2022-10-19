@@ -1,0 +1,1 @@
+MESSAGE_PACKET_CODE = b'\x00'
